@@ -5,7 +5,9 @@ addons/.DS_Store
 .ipynb_checkpoints/demo-checkpoint.ipynb
 .ipynb_checkpoints/enderscope-checkpoint.py
 .ipynb_checkpoints/serial_utils-checkpoint.py
+__pycache__/
 __pycache__/enderscope.cpython-39.pyc
+__pycache__/enderscope.cpython-311.pyc
 __pycache__/serial_utils.cpython-39.pyc
 .ipynb_checkpoints/autofocus-checkpoint.ipynb
 .ipynb_checkpoints/demo_Fusion de code GUI_Manualmode et SnakeScan-checkpoint.ipynb
@@ -26,3 +28,6 @@ demo_scan_patterns.ipynb
 demo_stage.ipynb
 11_demo_smart_scanning.ipynb
 *.ipynb
+enderscope/
+syringe_pump_program/platformio.ini
+syringe_pump_program/.gitignore
